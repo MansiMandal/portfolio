@@ -63,7 +63,7 @@
             <ul class="list-group list-group-flush" style="margin-left: 25px; font-style: oblique;">
                 <li class="list-group-item"> Learning new things/ Exploring</li>
                 <li class="list-group-item"> Paiting and Drawing</li>
-                <li class="list-group-item"> Singing</li>
+              
                 
               </ul>
           
